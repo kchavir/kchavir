@@ -6,6 +6,8 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Python</b>
   - [Space Missions Analysis (Data Science)](https://github.com/kchavir/SpaceMissionsAnalysisDataScience)
+  - [PDF to Audio Converter](https://github.com/kchavir/PDFtoAudioConverter)
+  - [Typing Speed Test](https://github.com/kchavir/TypingSpeedTest)
 
 <h2> 🤳 Connect with me:</h2>
 
