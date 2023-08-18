@@ -2,12 +2,11 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Python</b>
   - [Space Missions Analysis (Data Science)](https://github.com/kchavir/SpaceMissionsAnalysisDataScience)
   - [PDF to Audio Converter](https://github.com/kchavir/PDFtoAudioConverter)
   - [Typing Speed Test](https://github.com/kchavir/TypingSpeedTest)
+  - [Password Manager App](https://github.com/kchavir/PasswordManager)
 
 <h2> 🤳 Connect with me:</h2>
 
