@@ -1,4 +1,5 @@
-<h1>Hi, I'm Kirill! Passionated software developer whose thoughts often mixed up with the binary code.
+<h1>Hi, I'm Kirill!</h1> 
+Passionated software developer whose thoughts often mixed up with the binary code.
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
