@@ -1,5 +1,5 @@
 <h1>Hi, I'm Kirill!</h1> 
-Passionated software developer whose thoughts often mixed up with the binary code.
+A highly resourceful computer programmer and well-rounded IT professional with over 3 years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure. 
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
