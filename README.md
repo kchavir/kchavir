@@ -9,6 +9,7 @@ Passionated software developer whose thoughts often mixed up with the binary cod
   - [Typing Speed Test](https://github.com/kchavir/TypingSpeedTest)
   - [Password Manager App](https://github.com/kchavir/PasswordManager)
   - [Django Weather Forecast App](https://github.com/kchavir/WeatherApp)
+  - [Spotify Top 100 Playlist](https://github.com/kchavir/SpotifyTop100)
 
 <h2> 🤳 Connect with me:</h2>
 
