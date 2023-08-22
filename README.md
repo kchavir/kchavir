@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kirill! 
+<h1>Hi, I'm Kirill! Passionated software developer whose thoughts often mixed up with the binary code.
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -7,6 +7,7 @@
   - [PDF to Audio Converter](https://github.com/kchavir/PDFtoAudioConverter)
   - [Typing Speed Test](https://github.com/kchavir/TypingSpeedTest)
   - [Password Manager App](https://github.com/kchavir/PasswordManager)
+  - [Django Weather Forecast App] (https://github.com/kchavir/WeatherApp/tree/main)
 
 <h2> 🤳 Connect with me:</h2>
 
