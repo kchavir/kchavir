@@ -10,6 +10,7 @@ A highly resourceful computer programmer and well-rounded IT professional with o
   - [Password Manager App](https://github.com/kchavir/PasswordManager)
   - [Django Weather Forecast App](https://github.com/kchavir/WeatherApp)
   - [Spotify Top 100 Playlist](https://github.com/kchavir/SpotifyTop100)
+  - [Flash Card Application](https://github.com/kchavir/FlashCardApp)
 
 <h2> 🤳 Connect with me:</h2>
 
