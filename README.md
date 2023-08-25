@@ -5,12 +5,12 @@ A highly resourceful computer programmer and well-rounded IT professional with o
 
 - <b>Python</b>
   - [Space Missions Analysis (Data Science)](https://github.com/kchavir/SpaceMissionsAnalysisDataScience)
+  - [Django Weather Forecast App](https://github.com/kchavir/WeatherApp)
   - [PDF to Audio Converter](https://github.com/kchavir/PDFtoAudioConverter)
+  - [Flash Card Application](https://github.com/kchavir/FlashCardApp)
+  - [Spotify Top 100 Playlist](https://github.com/kchavir/SpotifyTop100)
   - [Typing Speed Test](https://github.com/kchavir/TypingSpeedTest)
   - [Password Manager App](https://github.com/kchavir/PasswordManager)
-  - [Django Weather Forecast App](https://github.com/kchavir/WeatherApp)
-  - [Spotify Top 100 Playlist](https://github.com/kchavir/SpotifyTop100)
-  - [Flash Card Application](https://github.com/kchavir/FlashCardApp)
 
 <h2> 🤳 Connect with me:</h2>
 
